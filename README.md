@@ -29,4 +29,4 @@ I use Histogram to visualized the distribution of movie ratings.
 A histogram is a type of bar chart that shows how frequently data falls into certain value ranges (bins).
 Each bin corresponds to a rating value (like 1, 2, 3, 4, 5).
 #OUTPUT:-
-<img width="1222" height="822" alt="Image" src="https://github.com/user-attachments/assets/b654e353-ebbb-4678-a064-d21bd54dd145" />
+<img width="1666" height="802" alt="Image" src="https://github.com/user-attachments/assets/5c37d8ab-62fd-4713-ade4-7ffdb2d20805" />
